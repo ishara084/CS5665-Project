@@ -29,4 +29,4 @@
   - ```pip install matplotlib```
 
 Source of the Images & Access Conditions
-- Dataset used: [https://www.kaggle.com/competitions/internal-waves/data](https://www.kaggle.com/competitions/ventilator-pressure-prediction/data)
+- Dataset used: [https://www.kaggle.com/competitions/ventilator-pressure-prediction/data](https://www.kaggle.com/competitions/ventilator-pressure-prediction/data)
